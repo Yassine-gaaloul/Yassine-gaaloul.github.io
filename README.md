@@ -55,7 +55,7 @@
 
 		<div class="box-1">
 			<div class="heading">
-				<p>Competances</p>
+				<p>COMPETANCES</p>
 			</div>
 
 			<p class="p1"> Arduino
@@ -75,7 +75,7 @@
 		<br>
 		<div class="box-1">
 			<div class="heading">
-				<p>loisirs</p>
+				<p>lOISIRS</p>
 			</div>
 
 			<div class="h-div">
@@ -97,7 +97,7 @@
 		</div>
 
 		<div class="box-2">
-			<h2>A propos de moi <i class="material-icons icons3" style="font-size: 28px!important; ">perm_identity</i></h2>
+			<h2>A PROPOS DE MOI <i class="material-icons icons3" style="font-size: 28px!important; ">perm_identity</i></h2>
 			<p class="p1">NOM : <span> gaaloul</span> 
 			</p>
 			<p class="p1">PRENOM :
@@ -128,15 +128,15 @@
 
 
 		<div class="box-2">
-			<h2>Projet <i class="material-icons icons3" >folder</i></h2>
+			<h2>PROJET <i class="material-icons icons3" >folder</i></h2>
 			<p class="p3">2022-2023 <span> Mini projet c#</span></p>
 			<p class="p2">
-				Machine de distribution de poissant
+				 distributeurs de boissons
 			</p>
 
 			<p class="p3">2022-2023 <span>Mini projet java </span></p>
 			<p class="p2">
-				Machine de distribution de poissant
+			    distributeurs de boissons
 			</p>
 
 			
